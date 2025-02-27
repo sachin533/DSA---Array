@@ -23,3 +23,8 @@ class Solution {
 }
 
 
+Time complexity:
+O(N) since each element is processed at most twice (once by i and once by start).
+
+Space complexity:
+O(1) (Constant Space)
