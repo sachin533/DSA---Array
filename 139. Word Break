@@ -18,3 +18,6 @@ class Solution {
         return dp[s.length()];
     }
 }
+
+
+complexity is O(n²).
